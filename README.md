@@ -18,8 +18,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)</br>
 
 ℹ️ Others</br>
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)</br></br>
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://elemental-canoe-3b2.notion.site/T-cnicas-de-dise-o-de-casos-de-pruebas-50104582325742f09838631e1c4d4635?pvs=4)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/design/DAFh-c2ayik/VHKGiDunfWwe-R_AMW_voQ/edit?utm_content=DAFh-c2ayik&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)]()
+</br></br>
 
 ### 🎵 Hobbies 💃</br>
 
