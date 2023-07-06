@@ -1,6 +1,6 @@
 ### Qa Analyst :mag_right: +4 exp 🇲🇽
 
-✨ I support software enhancement with my skills to detect functional and visual inconsistencies. 
+✨ I support software enhancement with my skills to detect functional and visual inconsistencies. </br>
 ✨ I have participated in static/dynamic analysis and testing, metrics development, execution reporting, Dailys, Walktrough, HotFix and Bug triage.
 
 ### ⚔️ Skills ⚔️ </br>
