@@ -6,8 +6,8 @@
 ### ⚔️ Skills ⚔️ </br>
 
 📱 Devices: </br>
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)</br>
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)</br></br>
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)</br>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)</br></br>
 
 💁 Programming:</br>
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)</br>
@@ -20,9 +20,9 @@
 ### ℹ️ Others</br>
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)</br></br>
 
-
-### 🖥️ Workspace Specs </br>
-
 ### 🎵 Hobbies 💃</br>
 
 ![Notion](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</br></br>
+
+### 🖥️ Workspace Specs </br>
+
